@@ -13,20 +13,6 @@
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 
-#### Design/Visual Tools
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-
-#### Package Manager
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
-
-#### Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-
-#### Task Manager
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
 ### Thanks for visiting my profile!
 
 ---
